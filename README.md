@@ -1,16 +1,7 @@
 # pymaceuticals-challenge
-Module 5 Challenge
-Evan Cromwell
-Denver University Data Analytics Bootcamp
+Module 5 Challenge | Evan Cromwell | Denver University Data Analytics Bootcamp
 
-
-
-
-
-
-
-Module 4 Challenge
-Module 4 Challenge Background                                                       
+Module 5 Challenge Background                                                       
 
 •	What good is data without a good plot to tell the story? In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
 
